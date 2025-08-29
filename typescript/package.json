@@ -1,0 +1,24 @@
+{
+  "name": "grrrt-ts",
+  "version": "1.0.0",
+  "description": "Minimalist greeting library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opeolluwa/grrrt.git"
+  },
+  "keywords": [
+    "greeting",
+    "typescript",
+    "mobile"
+  ],
+  "author": "Adefemi Adeoye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opeolluwa/grrrt/issues"
+  },
+  "homepage": "https://github.com/opeolluwa/grrrt#readme"
+}
